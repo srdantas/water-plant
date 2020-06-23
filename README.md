@@ -20,3 +20,6 @@ The general objective of this project is to carry out an automated irrigation th
  - Library DHT.h
  - Library SPI.h
  - Library PubSubClient.h
+
+## Project schema
+![project schema](schema.jpeg)
